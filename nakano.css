@@ -1,0 +1,15 @@
+/* @name Nakano */
+/* @author Callen */
+
+/* Nakano theme — starter CSS */
+:root {
+  --nakano-bg: #191923;
+  --nakano-panel: #222b38;
+  --nakano-accent: #d9a7ff;
+  --nakano-text: #f5f3fa;
+}
+
+body {
+  background-color: var(--nakano-bg);
+  color: var(--nakano-text);
+}
